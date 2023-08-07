@@ -69,3 +69,37 @@ Load the data into Power BI and design the dashboard's visualizations.
 Create relationships and calculated fields to provide deeper insights.
 Share the dashboard to provide a captivating IPL data exploration experience.
 
+# 3 - ECOMMERCE SALES DASHBOARD
+![ECOMMERCE SALES](https://github.com/Asif3615/PowerBi-Dashboards/assets/117658716/009bec54-d2da-4f79-be1a-5458d9488fc8)
+## Overview
+Welcome to the Ecommerce Sales Dashboard project! In this repository, I've created an interactive dashboard using Power BI and Excel to analyze sales data from an ecommerce platform. The project aims to provide insights and visualizations for better understanding and decision-making within the ecommerce domain.
+
+## Table of Contents
+Project Background
+Features
+Data Source
+Dependencies
+Usage
+
+## Project Background
+Ecommerce platforms generate vast amounts of sales data. This project combines Excel's data processing capabilities with Power BI's visualization prowess to create an interactive dashboard that enables users to explore sales trends, customer behavior, and product performance.
+
+## Features
+Integration of Excel-based sales data into Power BI for seamless analysis.
+Creation of interactive visualizations showcasing sales trends, customer demographics, and product performance.
+Comparative analysis of sales figures across different product categories and time periods.
+Identification of key insights through graphical representation and data-driven storytelling.
+
+## Data Source
+The dataset used for this project is an Excel spreadsheet containing comprehensive sales records from an ecommerce platform. The data includes information about customers, products, sales amounts, and more.
+
+## Dependencies
+To recreate this dashboard, you'll need:
+Power BI
+Microsoft Excel
+
+## Usage
+Open the Excel file and ensure the sales data is accurate and up-to-date.
+Load the data into Power BI and design the interactive dashboard's visualizations.
+Create relationships and calculated measures to derive valuable insights.
+Share the dashboard to provide an engaging analysis of ecommerce sales data.
