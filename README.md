@@ -108,6 +108,7 @@ Share the dashboard to provide an engaging analysis of ecommerce sales data.
 ![superstore profit](https://github.com/Asif3615/PowerBi-Dashboards/assets/117658716/7bb9b5f1-9515-45db-8cfd-61e5847f2b8f)
 ## Overview
 Welcome to the Superstore Profit Analysis Dashboard project! In this repository, I've developed a dynamic dashboard using Power BI and Excel to analyze profit data from a retail superstore. The project aims to provide insights and visualizations to guide data-driven decisions within the retail sector.
+
 ![part2](https://github.com/Asif3615/PowerBi-Dashboards/assets/117658716/85240a95-d4a4-4a1d-a7e1-9678336516f1)
 ## Table of Contents
 Project Background
